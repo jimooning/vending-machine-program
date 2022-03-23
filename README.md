@@ -8,3 +8,4 @@
 *메뉴가격 배열로 선언   
 *반복문,switch case문 이용하여 메뉴 선택   
 *온도,결제방법 함수선언 및 정의   
+![image](https://user-images.githubusercontent.com/100817610/159625735-2b92498a-23e6-42cc-91cd-93bd46295f17.png)
